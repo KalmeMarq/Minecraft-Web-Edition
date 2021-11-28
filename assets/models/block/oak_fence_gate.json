@@ -1,0 +1,6 @@
+{
+  "parent": "models/block/template_fence_gate",
+  "textures": {
+    "texture": "oak_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "models/block/cube",
+  "textures": {
+    "all": "spruce_planks"
+  }
+}

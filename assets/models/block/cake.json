@@ -1,0 +1,20 @@
+{
+  "textures": {
+      "bottom": "cake_bottom",
+      "top": "cake_top",
+      "side": "cake_side"
+  },
+  "elements": [
+      {   "from": [ 1, 0, 1 ],
+          "to": [ 15, 6, 15 ],
+          "faces": {
+              "down":  { "texture": "#bottom", "cullface": "down" },
+              "up":    { "texture": "#top" },
+              "north": { "uv": [0, 10, 15, 15], "texture": "#side" },
+              "south": { "texture": "#side" },
+              "west":  { "texture": "#side" },
+              "east":  { "texture": "#side" }
+          }
+      }
+  ]
+}

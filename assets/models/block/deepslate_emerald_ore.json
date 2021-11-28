@@ -1,0 +1,6 @@
+{
+  "parent": "models/block/cube",
+  "textures": {
+    "all": "deepslate_emerald_ore"
+  }
+}

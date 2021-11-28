@@ -1,0 +1,6 @@
+{
+  "parent": "models/block/cube",
+  "textures": {
+    "all": "lime_terracotta"
+  }
+}

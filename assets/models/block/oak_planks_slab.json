@@ -1,0 +1,6 @@
+{
+  "parent": "models/block/slab",
+  "textures": {
+    "all": "oak_planks"
+  }
+}

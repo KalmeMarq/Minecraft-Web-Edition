@@ -1,0 +1,6 @@
+{
+  "parent": "models/block/carpet",
+  "textures": {
+    "wool": "red_wool"
+  }
+}

@@ -37,26 +37,10 @@ object-assign
  */
 
 /*!
- * @pixi/extract - v6.2.0
- * Compiled Mon, 01 Nov 2021 16:52:10 UTC
- *
- * @pixi/extract is licensed under the MIT License.
- * http://www.opensource.org/licenses/mit-license
- */
-
-/*!
  * @pixi/filter-displacement - v6.2.0
  * Compiled Mon, 01 Nov 2021 16:52:10 UTC
  *
  * @pixi/filter-displacement is licensed under the MIT License.
- * http://www.opensource.org/licenses/mit-license
- */
-
-/*!
- * @pixi/math - v6.2.0
- * Compiled Mon, 01 Nov 2021 16:52:10 UTC
- *
- * @pixi/math is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
  */
 
@@ -101,6 +85,14 @@ object-assign
  */
 
 /*!
+ * @pixi/runner - v6.2.0
+ * Compiled Mon, 01 Nov 2021 16:52:10 UTC
+ *
+ * @pixi/runner is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
  * @pixi/ticker - v6.2.0
  * Compiled Mon, 01 Nov 2021 16:52:10 UTC
  *
@@ -140,3 +132,9 @@ and limitations under the License.
 ***************************************************************************** */
 
 /*! https://mths.be/punycode v1.3.2 by @mathias */
+
+/**
+ * @license
+ * Copyright 2010-2021 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
